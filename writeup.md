@@ -14,11 +14,6 @@ The goals / steps of this project are the following:
 [//]: # (Image References)
 
 [image1]: ./test_images/result_solidWhiteCurve.jpg "solidWhiteCurve"
-[image2]: ./test_images/result_solidWhiteRight.jpg "solidWhiteRight"
-[image3]: ./test_images/result_solidYellowCurve.jpg "solidYellowCurve"
-[image4]: ./test_images/result_solidYellowCurve2.jpg "solidYellowCurve2"
-[image5]: ./test_images/result_solidYellowLeft.jpg "solidYellowLeft"
-[image6]: ./test_images/result_whiteCarLaneSwitch.jpg "whiteCarLaneSwitch"
 
 ---
 
@@ -42,11 +37,6 @@ I assumped if the slope sign of the line is positive, it should be the left lane
 Here's the example images that recognizes left and right lanes correctly:
 
 ![alt_text][image1]
-![alt_text][image2]
-![alt_text][image3]
-![alt_text][image4]
-![alt_text][image5]
-![alt_text][image6]
 
 
 ###2. Identify potential shortcomings with your current pipeline
